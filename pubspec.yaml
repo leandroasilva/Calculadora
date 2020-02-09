@@ -32,12 +32,16 @@ dev_dependencies:
   flutter_test:
     sdk: flutter
   flutter_launcher_icons: "^0.6.1"
+  flutter_launcher_name: "^0.0.1"
+
+flutter_launcher_name:
+  name: "Calculadora"
 
 flutter_icons:
   image_path: "assets/icon/icon.png"
   ios: true
   android: true
-  
+
 # For information on the generic Dart part of this file, see the
 # following page: https://dart.dev/tools/pub/pubspec
 
